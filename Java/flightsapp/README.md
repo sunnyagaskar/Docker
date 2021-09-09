@@ -4,7 +4,7 @@ This is a sample API for flights on a Spring Boot dockerized Java app which supp
 
 ```docker build -t flightsapp .```
 
-```docker run -p 8080:8080 --rm docker.io/library/flighsapp```
+```docker run -p 8080:8080 --rm docker.io/library/flightsapp```
 
 Check the api on :
 
