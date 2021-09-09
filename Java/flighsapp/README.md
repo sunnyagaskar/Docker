@@ -1,6 +1,6 @@
 # Flightsapp 
 
-This is a sample API for fligths of a Spring Boot dockerized app which supports serverless function deployment :
+This is a sample API for fligths on a Spring Boot dockerized Java app which supports serverless function deployment :
 
 ```docker build -t flightsapp .```
 
@@ -11,6 +11,7 @@ Check the api on :
 ``` http://localhost:8080/flights/ ```
 
 To Do:
+Serverless Function (AWS SAM) 
 Unit test cases (JUNIT)
 CRUD operations (POST)
 Data Source (Dynamo)
