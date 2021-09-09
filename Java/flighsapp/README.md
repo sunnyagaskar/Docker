@@ -1,12 +1,16 @@
 # Flightsapp 
 
-This is a sample of a Spring Boot dockerized app. In order to run it, perform the following commands:
+This is a sample API for fligths of a Spring Boot dockerized app which supports serverless function deployment :
 
 ```docker build -t flightsapp .```
 
-
 ```docker run -p 8080:8080 --rm docker.io/library/flighsapp```
 
-Check if it is working by hitting the following endpoint:
+Check the api on :
 
-```curl http://localhost:8080/flights/ ```
+``` http://localhost:8080/flights/ ```
+
+To Do:
+Unit test cases (JUNIT)
+CRUD operations (POST)
+Data Source (Dynamo)
