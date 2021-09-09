@@ -1,6 +1,6 @@
 # Flightsapp 
 
-This is a sample API for fligths on a Spring Boot dockerized Java app which supports serverless function deployment :
+This is a sample API for flights on a Spring Boot dockerized Java app which supports serverless function deployment...
 
 ```docker build -t flightsapp .```
 
